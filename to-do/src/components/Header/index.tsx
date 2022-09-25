@@ -14,6 +14,7 @@ export function Header( { onAddTask }: Props) {
   function handleSubmit(event: FormEvent) {
     event.preventDefault();
     onAddTask(title);
+    setTitle('');
   }
 
   function onChangeTitle(event: ChangeEvent<HTMLInputElement>) {
