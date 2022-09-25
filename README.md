@@ -1,6 +1,5 @@
 # desafio-to-do-list-reactjs
 
-# desafio-to-do-list-reactjs
 
 ## Sobre o Desafio 🚀
 
@@ -22,7 +21,7 @@ HTML5 - CSS - ReactJS - TypeScript - Biblioteca React Icons
 ## Layout Mobile e Desktop 
 
 <div align="center">
-    <img src="./src/assets/mobile.png" width="250px" align="center"> 
-    <img src="./src/assets/tablet.png" width="450px" align="center"> 
-    <img src="./src/assets/desktop.png" width="900px" align="center">
+    <img src="./to-do/src/assets/mobile.png" width="250px" align="center"> 
+    <img src="./to-do/src/assets/tablet.png" width="750px" align="center"> 
+    <img src="./to-do/src/assets/desktop.png" width="900px" align="center">
 </div>
